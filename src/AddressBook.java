@@ -26,7 +26,7 @@ public class AddressBook {
         buddyList.remove(buddy);
     }
 
-    public void newMethodNewBranch() {}
+    public void newBranchTest() {}
 
     public static void main(String[] args) {
         System.out.println("Address Book_ changed1_changed2_changed from gitHub");
