@@ -27,7 +27,7 @@ public class AddressBook {
     }
 
     public static void main(String[] args) {
-        System.out.println("Address Book_ changed1");
+        System.out.println("Address Book_ changed1_changed2");
         BuddyInfo buddy5 = new BuddyInfo("b5","a5","n5");
         AddressBook ab1 = new AddressBook();
         ab1.addBuddy(buddy5);
